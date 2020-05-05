@@ -1,0 +1,9 @@
+# emacs
+.auctex-auto/
+
+# pdflatex outputs
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
